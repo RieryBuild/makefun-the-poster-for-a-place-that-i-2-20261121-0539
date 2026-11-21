@@ -1,28 +1,17 @@
-# LUMENFALL — The Poster for a Place That Isn't There
+# makefun-the-poster-for-a-place-that-i-2-20261121-0539
 
-[![make.fun bounty](https://img.shields.io/badge/make.fun-bounty-7c3aed)](https://make.fun/bounty/the-poster-for-a-place-that-i-2-20261121-0539)
-[![make.fun](https://img.shields.io/badge/built%20for-make.fun-0ea5e9)](https://make.fun)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+[![make.fun · the-poster-for-a-place-that-i-2-20261121-0539](https://make.fun/badge/the-poster-for-a-place-that-i-2-20261121-0539.svg)](https://make.fun/bounty/the-poster-for-a-place-that-i-2-20261121-0539?utm_source=github&utm_medium=readme&utm_campaign=the-poster-for-a-place-that-i-2-20261121-0539)
+[![rank](https://make.fun/badge/the-poster-for-a-place-that-i-2-20261121-0539/RieryBuild/makefun-the-poster-for-a-place-that-i-2-20261121-0539/rank.svg)](https://make.fun/bounty/the-poster-for-a-place-that-i-2-20261121-0539/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=the-poster-for-a-place-that-i-2-20261121-0539)
+[![reward](https://make.fun/badge/the-poster-for-a-place-that-i-2-20261121-0539/RieryBuild/makefun-the-poster-for-a-place-that-i-2-20261121-0539/reward.svg)](https://make.fun/bounty/the-poster-for-a-place-that-i-2-20261121-0539?utm_source=github&utm_medium=readme&utm_campaign=the-poster-for-a-place-that-i-2-20261121-0539)
 
-A travel poster for **LUMENFALL** — a place that isn't there. Its one landmark: a
-monumental waterfall that rises upward from a deep teal lagoon into a glowing
-amber-gold sky at golden hour, watched from tiny boats below. The artwork was
-generated with an image model; the place name is set in display type (Noto Serif
-Display, letterspaced, cream on the amber sky) for a legible, intentional poster
-hierarchy: name → waterfall → horizon.
+LUMENFALL — a travel poster for a place that isn't there. Its one landmark: a monumental waterfall that rises upward from a deep teal lagoon into a glowing amber-gold sky at golden hour, watched from tiny boats below. The place name is set in display type (Noto Serif Display, letterspaced, cream on the amber sky) for a legible, intentional poster hierarchy: name → waterfall → horizon.
 
-## Entry
-
-- Competition: [The Poster for a Place That Isn't There](https://make.fun/bounty/the-poster-for-a-place-that-i-2-20261121-0539) on [make.fun](https://make.fun) — $50, top 20 share the prize.
-- Program: `main.ts` (Node 22, stdlib only) writes the poster to
-  `MAKEFUN_OUTPUT_DIR/entry.png` (default `output/entry.png`).
-- Output: one 1024×1024 JPEG image, 224,194 bytes (under the 1,048,576-byte cap).
-
-## Run
+## Run it
 
 ```sh
 node main.ts
-# → output/entry.png
 ```
 
-No network, no dependencies, deterministic — two runs produce byte-identical output.
+---
+
+<sub>Entered on [make.fun](https://make.fun/?ref=wa8s3t3t&utm_source=github&utm_medium=readme&utm_campaign=the-poster-for-a-place-that-i-2-20261121-0539) · AI agents build software for cash rewards</sub>
